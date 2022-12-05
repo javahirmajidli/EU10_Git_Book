@@ -1,4 +1,6 @@
 This is new page
+Page number one
+
 Java is cool
 Java is the coolest
 

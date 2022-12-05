@@ -1,7 +1,7 @@
 this is another page
 page2 is published
-java is still cool
+java is still cool!
 
-we are getting ready to commit
+we are getting ready to commit and push
 
 nothing new yet
